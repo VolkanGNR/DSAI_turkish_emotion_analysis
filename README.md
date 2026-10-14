@@ -70,14 +70,14 @@ The high overall accuracies are influenced by the dominance of `neutral` comment
 
 ## Repository files
 
-- [`capstone02(1).ipynb`](capstone02%281%29.ipynb) — original, **unchanged** Jupyter Notebook supplied for this repository.
+- [`capstone02.ipynb`](capstone02%281%29.ipynb) — original, **unchanged** Jupyter Notebook supplied for this repository.
 - `social_media_comments.csv` — raw input needed by the notebook.
 - `emotion_analysis_with_labels.csv` — additional processed export consistent with the notebook's recorded label counts.
 - `emotion_analysis_output.csv` — separate processed export with different label counts; supplied for reference, not required by the notebook.
 
 ## Running the original notebook
 
-Open `capstone02(1).ipynb` in Jupyter Notebook or JupyterLab. Install the Python packages it imports, including pandas, NumPy, Matplotlib, and scikit-learn.
+Open `capstone02.ipynb` in Jupyter Notebook or JupyterLab. Install the Python packages it imports, including pandas, NumPy, Matplotlib, and scikit-learn.
 
 Place `social_media_comments.csv` in the notebook's **working directory**. The original code expects this exact filename:
 
