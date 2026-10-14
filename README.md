@@ -70,7 +70,7 @@ The high overall accuracies are influenced by the dominance of `neutral` comment
 
 ## Repository files
 
-- [`capstone02.ipynb`](capstone02%281%29.ipynb) — original, **unchanged** Jupyter Notebook supplied for this repository.
+- [`capstone02.ipynb`](capstone02.ipynb) — original, **unchanged** Jupyter Notebook supplied for this repository.
 - `social_media_comments.csv` — raw input needed by the notebook.
 - `emotion_analysis_with_labels.csv` — additional processed export consistent with the notebook's recorded label counts.
 - `emotion_analysis_output.csv` — separate processed export with different label counts; supplied for reference, not required by the notebook.
